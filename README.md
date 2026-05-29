@@ -1,38 +1,38 @@
-# SimplStream 🚀
+# Cymor Movie Hub 🚀
 
-[![Stars](https://img.shields.io/github/stars/JustANormalChurro/SimplStream?style=social)](https://github.com/JustANormalChurro/SimplStream/stargazers)
-[![Forks](https://img.shields.io/github/forks/JustANormalChurro/SimplStream?style=social)](https://github.com/JustANormalChurro/SimplStream/network/members)
+[![Stars](https://img.shields.io/github/stars/JustANormalChurro/Cymor Movie Hub?style=social)](https://github.com/JustANormalChurro/Cymor Movie Hub/stargazers)
+[![Forks](https://img.shields.io/github/forks/JustANormalChurro/Cymor Movie Hub?style=social)](https://github.com/JustANormalChurro/Cymor Movie Hub/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.x-blue?logo=react)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)](https://www.typescriptlang.org)
-[![Issues](https://img.shields.io/github/issues/JustANormalChurro/SimplStream)](https://github.com/JustANormalChurro/SimplStream/issues)
+[![Issues](https://img.shields.io/github/issues/JustANormalChurro/Cymor Movie Hub)](https://github.com/JustANormalChurro/Cymor Movie Hub/issues)
 
 <div align="center">
-  <img src="https://i.imgur.com/JiTNH8d.png" alt="SimplStream Logo" width="300"/>
+  <img src="https://i.imgur.com/JiTNH8d.png" alt="Cymor Movie Hub Logo" width="300"/>
   <br><br>
   <p><em>It's not just streaming, it's SimplStreaming</em></p>
 </div>
 
 ## 🌟 Introduction
 
-Welcome to **SimplStream**, the revolutionary free and open-source streaming platform designed for the modern viewer who craves endless entertainment without the hassle of subscriptions, ads, or complexity. Born from a solo developer's passion for accessible media, SimplStream aggregates a massive library of movies, TV shows, and live channels into one intuitive, browser-based app. Whether you're binge-watching the latest Netflix hit, catching a Premier League match, or discovering hidden gems with our "Surprise Me" feature, SimplStream puts you in control.
+Welcome to **Cymor Movie Hub**, the revolutionary free and open-source streaming platform designed for the modern viewer who craves endless entertainment without the hassle of subscriptions, ads, or complexity. Born from a solo developer's passion for accessible media, Cymor Movie Hub aggregates a massive library of movies, TV shows, and live channels into one intuitive, browser-based app. Whether you're binge-watching the latest Netflix hit, catching a Premier League match, or discovering hidden gems with our "Surprise Me" feature, Cymor Movie Hub puts you in control.
 
-In a world dominated by fragmented streaming services – where you need a separate app for Disney, another for Hulu, and yet another for sports – SimplStream breaks the mold. It pulls together mainstream content from across the ecosystem (think *Stranger Things* from Netflix, *The Mandalorian* from Disney+, *The Boys* from Prime Video, and more) via reliable third-party embeds, all while keeping things 100% free. No paywalls, no regional blocks, just pure streaming bliss optimized for desktops, mobiles, tablets, and even 4K TVs.
+In a world dominated by fragmented streaming services – where you need a separate app for Disney, another for Hulu, and yet another for sports – Cymor Movie Hub breaks the mold. It pulls together mainstream content from across the ecosystem (think *Stranger Things* from Netflix, *The Mandalorian* from Disney+, *The Boys* from Prime Video, and more) via reliable third-party embeds, all while keeping things 100% free. No paywalls, no regional blocks, just pure streaming bliss optimized for desktops, mobiles, tablets, and even 4K TVs.
 
-Launched on October 16, 2025, as version 1.0, SimplStream is more than an app – it's a movement toward democratized entertainment. Built with love by [Andy](https://github.com/JustANormalChurro) (aka JustANormalChurro), this project invites you to star, fork, and contribute to make it even better. Dive in, and let the credits roll!
+Launched on October 16, 2025, as version 1.0, Cymor Movie Hub is more than an app – it's a movement toward democratized entertainment. Built with love by [Andy](https://github.com/JustANormalChurro) (aka JustANormalChurro), this project invites you to star, fork, and contribute to make it even better. Dive in, and let the credits roll!
 
-### Why SimplStream?
+### Why Cymor Movie Hub?
 - **Cost-Free Forever**: Enjoy unlimited access without monthly fees. Support via optional donations keeps it running.
 - **Universal Library**: Access thousands of titles aggregated from top sources – effectively combining Netflix, Disney+, Hulu, Prime, and beyond.
 - **Live TV Included**: 30+ channels for real-time sports, news, kids' programming, and entertainment – no extra add-ons needed.
 - **User-Centric Design**: Personalized profiles, seamless resume playback, and smart recommendations make it feel like home.
 - **Privacy First**: No data collection; everything stays local in your browser.
 
-If you're tired of subscription fatigue and ready for a smarter way to stream, SimplStream is your new best friend. Let's get streaming!
+If you're tired of subscription fatigue and ready for a smarter way to stream, Cymor Movie Hub is your new best friend. Let's get streaming!
 
 ## 🎯 Key Features
 
-SimplStream packs a punch with features that rival premium services while staying refreshingly simple. Here's what sets it apart:
+Cymor Movie Hub packs a punch with features that rival premium services while staying refreshingly simple. Here's what sets it apart:
 
 ### Core Streaming
 - **Vast On-Demand Library**: Stream movies and TV shows from embeds like VidSRC, Vidlink Pro, 111Movies, Videasy, and Vidfast. Covers ~87,000 movies and ~19,000 series with daily updates – from blockbusters to cult classics.
@@ -59,7 +59,7 @@ SimplStream packs a punch with features that rival premium services while stayin
 - **No Account Required**: Jump in anonymously, or level up with profiles for full features.
 - **Ethical & Transparent**: Clear terms disclaim liability for embeds; focuses on UI/UX innovation.
 
-With these features, SimplStream isn't just a player – it's your personal entertainment hub.
+With these features, Cymor Movie Hub isn't just a player – it's your personal entertainment hub.
 
 ## 📱 Screenshots & Demo
 
@@ -79,11 +79,11 @@ With these features, SimplStream isn't just a player – it's your personal ente
 ![Profile Selector](https://i.imgur.com/0QlrtHZ.png)  
 *Who's watching? screen with customizable avatars and easy profile switching.*
 
-**Live Demo**: Try it at [simplstream.bolt.host](https://simplstream.bolt.host) (hosted via Bolt.new).
+**Live Demo**: Try it at [Cymor Movie Hub.bolt.host](https://Cymor Movie Hub.bolt.host) (hosted via Bolt.new).
 
 ## 🚀 Quick Start
 
-Getting SimplStream up and running is as easy as 1-2-3. It's a standard Vite + React project – no Docker or complex setups.
+Getting Cymor Movie Hub up and running is as easy as 1-2-3. It's a standard Vite + React project – no Docker or complex setups.
 
 ### Prerequisites
 - Node.js (v18+)
@@ -93,8 +93,8 @@ Getting SimplStream up and running is as easy as 1-2-3. It's a standard Vite + R
 ### Installation
 1. **Clone the Repo**:
    ```
-   git clone https://github.com/JustANormalChurro/SimplStream.git
-   cd SimplStream
+   git clone https://github.com/JustANormalChurro/Cymor Movie Hub.git
+   cd Cymor Movie Hub
    ```
 
 2. **Install Dependencies**:
@@ -128,7 +128,7 @@ npm run build
 ### Deployment Options
 - **Vercel**: Connect GitHub repo – auto-deploys on push.
 - **Netlify**: Drag/drop the `dist` folder.
-- **GitHub Pages**: Add `base: '/SimplStream/'` in `vite.config.ts` and push to `gh-pages` branch.
+- **GitHub Pages**: Add `base: '/Cymor Movie Hub/'` in `vite.config.ts` and push to `gh-pages` branch.
 
 For Android APK builds (via Capacitor):
 1. `npm i @capacitor/core @capacitor/cli`
@@ -160,11 +160,11 @@ For Android APK builds (via Capacitor):
 - **Data Backup**: Settings > "Export Data" > Save JSON file.
 - **Troubleshooting**: Check console for TMDB errors; clear localStorage if profiles glitch.
 
-For full docs, see the [Wiki](https://github.com/JustANormalChurro/SimplStream/wiki).
+For full docs, see the [Wiki](https://github.com/JustANormalChurro/Cymor Movie Hub/wiki).
 
 ## 🛠 Tech Stack
 
-SimplStream is built for speed, scalability, and developer joy:
+Cymor Movie Hub is built for speed, scalability, and developer joy:
 
 - **Frontend**: React 18, TypeScript 5, Vite (build tool), Tailwind CSS (styling).
 - **State & Context**: React Context for themes/profiles; LocalStorage for persistence.
@@ -182,7 +182,7 @@ No backend – everything client-side for zero server costs!
 
 ## 🤝 Contributing
 
-Love SimplStream? Help make it legendary! We welcome all contributions, from bug fixes to wild features.
+Love Cymor Movie Hub? Help make it legendary! We welcome all contributions, from bug fixes to wild features.
 
 ### How to Contribute
 1. **Fork the Repo** & clone your fork.
@@ -208,13 +208,13 @@ Top contributors get shoutouts in releases. Current hero: Andy (100% commits so 
 - Internationalization (i18n).
 - Voice search for TV.
 
-See [Projects](https://github.com/JustANormalChurro/SimplStream/projects) for details.
+See [Projects](https://github.com/JustANormalChurro/Cymor Movie Hub/projects) for details.
 
 ## 📄 License
 
 This project is licensed under the MIT License – free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
-**Note on Content**: SimplStream's UI/UX is MIT, but embeds are third-party – stream responsibly and respect copyrights.
+**Note on Content**: Cymor Movie Hub's UI/UX is MIT, but embeds are third-party – stream responsibly and respect copyrights.
 
 ## 🙌 Acknowledgments
 
@@ -228,7 +228,7 @@ This project is licensed under the MIT License – free to use, modify, and dist
 
 Questions? Bugs? Feature requests? Hit us up:
 
-- **Email**: [admin.simplstream@protonmail.com](mailto:admin.simplstream@protonmail.com)
+- **Email**: [admin.Cymor Movie Hub@protonmail.com](mailto:admin.Cymor Movie Hub@protonmail.com)
 
 Donate to keep it free: [Cash App $justanormalchrurro](https://cash.app/$justanormalchrurro). Every coffee counts! ☕
 
@@ -237,7 +237,7 @@ Donate to keep it free: [Cash App $justanormalchrurro](https://cash.app/$justano
 <div align="center">
   <p><strong>Made with ❤️ by <a href="https://github.com/JustANormalChurro">Andy</a> – Stream Simple, Live Epic!</strong></p>
   <br>
-  <img src="https://i.imgur.com/RURTeBy.png" alt="SimplStream Logo Light" width="300"/>
+  <img src="https://i.imgur.com/RURTeBy.png" alt="Cymor Movie Hub Logo Light" width="300"/>
 </div>
 
 *Last Updated: October 16, 2025*
